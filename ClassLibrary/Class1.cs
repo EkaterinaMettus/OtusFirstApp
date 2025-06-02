@@ -4,7 +4,7 @@
     {
         public static void MethodFromLibrary()
         {
-            Console.WriteLine("Library");
+            Console.WriteLine("Library - test");
         }
     }
 }
