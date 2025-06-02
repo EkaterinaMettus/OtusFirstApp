@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OtusFirstApp": {
+      "commandName": "Project",
+      "commandLineArgs": "hello"
+    }
+  }
+}
