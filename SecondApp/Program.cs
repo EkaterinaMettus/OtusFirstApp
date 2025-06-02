@@ -4,7 +4,7 @@ Method1();
 
 static void Method1()
 {
-    int x = 1000;
+    int x = 200;
     Console.WriteLine(x);
 
     x = 20;
