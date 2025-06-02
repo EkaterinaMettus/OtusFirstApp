@@ -51,7 +51,7 @@ namespace OtusFirstApp
         /// <returns>Число</returns>
         static int Method1()
         {
-            int x = 10;
+            int x = 20;
             Console.WriteLine(x);
 
             x = 30;
