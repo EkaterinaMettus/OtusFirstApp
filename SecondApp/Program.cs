@@ -7,7 +7,7 @@ static void Method1()
     int x = 10;
     Console.WriteLine(x);
 
-    x = 30;
+    x = 20;
     Console.WriteLine(x);
 }
 
